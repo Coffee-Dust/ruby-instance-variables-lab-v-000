@@ -1,6 +1,6 @@
 class Dog
   attr_accessor :name
   def inintiate
-    @this_dogs_name = @name
+    @name = @this_dogs_name
   end
 end
